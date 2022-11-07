@@ -1,6 +1,7 @@
 - 👋 Hi, We are @team-s0l1d1ty
 - 👀 We are interested in the application of blockchain technology to solve problems 
-- 🌱 We are currently in a [Hackathon](https://jts.tech.gov.sg/2022/stack-the-codes) 
+- 🌱 We are currently doing ...
+   - [Jaga The Stack - Stack the Code Hackathon](https://jts.tech.gov.sg/2022/stack-the-codes) 
 - 💞️ We are looking to collaborate on ...
 - 📫 How to reach us s0l1d1ty.evm@gmail.com
 
