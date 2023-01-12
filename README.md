@@ -2,7 +2,9 @@
 - 👀 We are interested in ... 
    - the application of blockchain technology to solve problems 
 - 🌱 We are currently doing ...
-   - [Jaga The Stack - Stack the Code Hackathon](https://jts.tech.gov.sg/2022/stack-the-codes) 
+   - Co-Development with Govtech on [Project S0l1d1ty](https://github.com/team-s0l1d1ty/Project-S0l1d1ty)
+- Achievements
+   - :2nd_place_medal: [Jaga The Stack - Stack the Code Hackathon](https://jts.tech.gov.sg/2022/stack-the-codes) 
 - 📫 How to reach us ... 
    - s0l1d1ty.evm@gmail.com
 
