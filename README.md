@@ -1,10 +1,12 @@
 - 👋 Hi, We are @team-s0l1d1ty
 - 👀 We are interested in ... 
-   - the application of blockchain technology to solve problems 
+   - the application of blockchain technology to solve problems
+   - Application Security Tooling 
 - 🌱 We are currently doing ...
-   - Co-Development with Govtech on [Project S0l1d1ty](https://github.com/team-s0l1d1ty/Project-S0l1d1ty)
-- Achievements
+   -  developing APIMap, an API Specific Security Testing Tool
+- Achievements & Past Projects
    - :2nd_place_medal: [Jaga The Stack - Stack the Code Hackathon](https://jts.tech.gov.sg/2022/stack-the-codes) 
+   -  Co-Development with Govtech on [Project S0l1d1ty](https://github.com/team-s0l1d1ty/Project-S0l1d1ty)
 - 📫 How to reach us ... 
    - s0l1d1ty.evm@gmail.com
 
